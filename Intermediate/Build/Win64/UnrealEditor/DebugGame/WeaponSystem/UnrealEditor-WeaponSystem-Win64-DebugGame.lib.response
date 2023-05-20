@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-WeaponSystem-Win64-DebugGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"F:\Projects\UQAC\SurvieZ\20232_8INF966_SurvieZ\UEPROJ\projet8inf916\Intermediate\Build\Win64\projet8inf916Editor\DebugGame\Engine\SharedPCH.Engine.NonOptimized.ShadowErrors.InclOrderUnreal5_0.h.obj"
+"F:\Projects\UQAC\SurvieZ\20232_8INF966_SurvieZ\UEPROJ\projet8inf916\Plugins\WeaponSystem\Intermediate\Build\Win64\UnrealEditor\DebugGame\WeaponSystem\Module.WeaponSystem.cpp.obj"
+"F:\Projects\UQAC\SurvieZ\20232_8INF966_SurvieZ\UEPROJ\projet8inf916\Plugins\WeaponSystem\Intermediate\Build\Win64\UnrealEditor\DebugGame\WeaponSystem\Default.rc2.res"
+/OUT:"F:\Projects\UQAC\SurvieZ\20232_8INF966_SurvieZ\UEPROJ\projet8inf916\Plugins\WeaponSystem\Intermediate\Build\Win64\UnrealEditor\DebugGame\WeaponSystem\UnrealEditor-WeaponSystem-Win64-DebugGame.lib"
